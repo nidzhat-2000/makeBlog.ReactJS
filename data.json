@@ -1,0 +1,32 @@
+{
+  "blogs": [
+    {
+      "title": "second make",
+      "body": " betterrrr",
+      "author": "nijat",
+      "id": "2"
+    },
+    {
+      "title": "sory",
+      "body": "bruh",
+      "author": "nijat",
+      "id": "a7nUM3A"
+    },
+    {
+      "title": "tryna",
+      "body": "new one",
+      "author": "ibrahim",
+      "id": "2Csd-iZ"
+    }
+  ],
+  "pages": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "New Blog",
+      "url": "/new"
+    }
+  ]
+}

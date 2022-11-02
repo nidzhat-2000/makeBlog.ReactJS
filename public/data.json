@@ -1,0 +1,27 @@
+{
+  "blogs": [
+    {
+      "title": "first try",
+      "blog": "first make",
+      "author": "nicat",
+      "id": "1"
+    },
+    {
+      "title": "second try",
+      "author": "second make",
+      "blog": "nijat",
+      "id": "2"
+    }
+  ],
+
+  "pages": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "New Blog",
+      "url": "/new"
+    }
+  ]
+}
